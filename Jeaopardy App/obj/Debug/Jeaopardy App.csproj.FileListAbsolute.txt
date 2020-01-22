@@ -1,0 +1,13 @@
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\bin\Debug\Jeaopardy App.exe.config
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\bin\Debug\Jeaopardy App.exe
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\bin\Debug\Jeaopardy App.pdb
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy App.csprojAssemblyReference.cache
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy_App.Properties.Resources.resources
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy App.csproj.GenerateResource.cache
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy App.csproj.CoreCompileInputs.cache
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy App.exe
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy App.pdb
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy_App.FormQandA.resources
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy_App.FormOptions.resources
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy_App.FormGameBoard.resources
+C:\Users\that1\Desktop\C#\Jeaopardy App\Jeaopardy App\obj\Debug\Jeaopardy_App.SplashScreen.resources
